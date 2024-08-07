@@ -1,12 +1,16 @@
+.rojo {
+    box-shadow: 10px 1px 400px 89px rgba(255, 0, 0, 0.75);
+}
 
-/* 
+.amarillo {
+    box-shadow: 10px 1px 400px 89px rgba(251,255,0,0.75);
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+.verde {
+    box-shadow: 10px 1px 400px 89px rgba(43, 255, 0, 0.75);
+}
 
-*/
+.morado {
+    box-shadow: 10px 1px 400px 89px rgba(146, 0, 190, 0.75);
+}
+
